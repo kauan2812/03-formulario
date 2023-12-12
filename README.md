@@ -1,6 +1,8 @@
 Este é meu terceiro projeto!
 
-Este é um projeto do curso EXPLORER da Rocketseat. Onde aprendi mais sobre formulários.
+Projeto feito com o objetivo de aprender mais sobre formulários e colocar em prática meus conhecimentos.
+
+Tecnologias utilizadas: HTML e CSS
 
 Aqui está um exemplo de como ficou o site:
 
